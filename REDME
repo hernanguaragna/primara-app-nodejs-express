@@ -1,0 +1,5 @@
+- Instale el paquete express para poder usar el servidor
+- Instale el paquete morgan para poder ver por consola las peticiones que se hacen al servidor
+- Instale el paquete ejs para poder usar el motor de plantillas html y usas funciones de javascript sin tener que usar etiquetas.
+- Instale el paquete nodemon en modo desarrollo para poder ejecutar el servidor en el momento que se quiera sin tener que recargar la pagina.
+
