@@ -3,3 +3,5 @@
 - Instale el paquete ejs para poder usar el motor de plantillas html y usas funciones de javascript sin tener que usar etiquetas.
 - Instale el paquete nodemon en modo desarrollo para poder ejecutar el servidor en el momento que se quiera sin tener que recargar la pagina.
 - Cree una carpeta src y dentro de ella dos carpetas la routes que posee los requires y la views que posee las plantillas html para tener el codigo mas ordenado y prolijo.
+- Cree una carpeta partials que posee las plantillas html que se usan en varias partes del codigo para optimizar el funcionamiento.
+- Cree una carpeta con los estilos y bootstrap para estilizarla.

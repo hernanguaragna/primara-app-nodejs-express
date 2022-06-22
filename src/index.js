@@ -13,7 +13,7 @@ app.set("views", join(__dirname, 'views'));
 app.set("view engine", "ejs");	// set the view engine to ejs
 
 app.use(indexRouter);// use the index router for all requests(gets)
-
+app.use(express.static(join(__dirname, 'public'))); // use the public folder for static files
 
 
 app.listen(3000, () => {
