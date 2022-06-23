@@ -5,3 +5,5 @@
 - Cree una carpeta src y dentro de ella dos carpetas la routes que posee los requires y la views que posee las plantillas html para tener el codigo mas ordenado y prolijo.
 - Cree una carpeta partials que posee las plantillas html que se usan en varias partes del codigo para optimizar el funcionamiento.
 - Cree una carpeta con los estilos y bootstrap para estilizarla.
+- deje la app completamente funcional y lista para ser ejecutada.
+- Subir el servidor a heroku.
